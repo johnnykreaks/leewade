@@ -13,7 +13,7 @@ body {
 	color:white;
 	font-family:sans-serif;
 	height:110vh;
-	background:url("../img/bg.png");
+	background:url("../img/bg.png") no-repeat;
 	background-size:115%;
 }
 #opening img {
@@ -49,7 +49,7 @@ body {
 	color:black;
 	font-family:Roboto, sans-serif;
 	height:179.5vh;
-	background:url("../img/bg_2.png");
+	background:url("../img/bg_2.png") no-repeat;
 	background-size:100%;
 	position:relative;
 	bottom:14em;
@@ -75,7 +75,7 @@ body {
 }
 /* image */
 #image {
-	background:url("../img/bg_3.png");
+	background:url("../img/bg_3.png") no-repeat;
 	background-size:150%;
 	height:120vh;
 	position:relative;
